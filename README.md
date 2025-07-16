@@ -6,10 +6,10 @@ This Command-Line Interface (CLI) tool enables **left-shifting in the Software D
 
 ## ⚙️ Tech Stack
 
-- Python
-- Azure OpenAI (GPT-4o)
+- Azure hosted LLM (GPT-4o)
 - REST API for model inference
 - Prompt Engineering with curated templates
+- Python
 
 ## 🚀 Features
 
