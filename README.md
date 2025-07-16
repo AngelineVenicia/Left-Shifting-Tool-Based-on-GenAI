@@ -4,6 +4,13 @@ This Command-Line Interface (CLI) tool enables **left-shifting in the Software D
 
 ---
 
+## ⚙️ Tech Stack
+
+- Python
+- Azure OpenAI (GPT-4o)
+- REST API for model inference
+- Prompt Engineering with curated templates
+
 ## 🚀 Features
 
 - Accepts natural language queries from developers via the CLI
@@ -14,10 +21,5 @@ This Command-Line Interface (CLI) tool enables **left-shifting in the Software D
 
 ---
 
-## ⚙️ Tech Stack
 
-- Python
-- Azure OpenAI (GPT-4o)
-- REST API for model inference
-- Prompt Engineering with curated templates
 
